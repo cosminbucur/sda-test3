@@ -1,7 +1,9 @@
+package com.sda.intro;
+
 // class name always with CapitalCase
 public class DemoVariables {
 
-    // declare variables
+    // declare variables (primitives)
 
     // type  name = value
     byte byteVariable = 120;

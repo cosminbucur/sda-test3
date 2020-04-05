@@ -1,3 +1,5 @@
+package com.sda.intro;
+
 public class MyAwesomeApp {
 
     // format file: CTRL + ALT + L
@@ -13,5 +15,5 @@ public class MyAwesomeApp {
 
     } // end of main()
 
-} // end of MyAwesomeApp
+} // end of com.sda.intro.MyAwesomeApp
 
